@@ -1,0 +1,6 @@
+{
+  "name": "Persian Handicrafts Marketplace",
+  "description": "A modern, minimalist marketplace for authentic Persian premium handicrafts, featuring stories, categories, interactive videos, live offers, and beautiful product collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
